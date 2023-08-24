@@ -22,7 +22,8 @@
 
 ## Courses
 
-#### February 2023
+#### February 2023 - June 2023 / GoIT 
+
 
 ## Tech events
 
