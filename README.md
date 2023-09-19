@@ -82,7 +82,7 @@ https://www.4testers.pl/webinar
 
 
 
-### PROGRAMMER WEEK September 
+### PROGRAMMER WEEK 6-13 September 
 https://tydzienprogramisty.pl/
 
 ✅ <i> What is and what is not testing? </i>  Emil Mądry
@@ -99,13 +99,13 @@ https://tydzienprogramisty.pl/
 
 
 ## Books
-✅ "Pasja testowania" K.Jadczyk; wyd. Helion, 2021.
+✅ "Pasja testowania" K.Jadczyk, Helion, 2021.
 
 
 
 ## Groups on Facebook
 
-* [LUBQA - Lublin Software Quality Assurance and Testing Group](https://www.facebook.com/LubQA/)
+* [FlyNerd Coding Gang - dziewczyny i IT | tech | kompetencje cyfrowe] (https://www.facebook.com/groups/1427451931347639). 
 * [Testowanie oprogramowania - PRACA, Ogłoszenia](https://www.facebook.com/groups/215557562210470/?ref=group_header)
 * [Tester oprogramowania - jak nim zostać?](https://www.facebook.com/groups/531570473876610/?ref=group_header)
 * [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/?ref=group_header)
