@@ -74,6 +74,32 @@ I am mainly interested in remote or hybrid work.
 - participation in a webinar on the profession of a software tester
 
 ## Tech events / webinars
+### 4_testers -> WEBINARS
+https://www.4testers.pl/webinar
+
+✅ How web applications are built?
+
+✅ How to use DevTools in manual testing and automation?
+
+✅ How to develop technical skills? 
+
+
+### TYDZIEŃ PROGRAMISTY 6-13 września 
+https://tydzienprogramisty.pl/
+
+✅ What is and what is not testing? Emil Mądry 
+
+-> Theory : basic testing concepts, role of QA in the team, testing tools, test automation
+
+-> Exercises: testing exercises based on several websites
+
+✅ Getting started with Python for everyone! Weronika Witek 
+
+-> an intensive dose of Python for beginners
+
+-> a few hours of practice in Python
+
+
 
 
 
