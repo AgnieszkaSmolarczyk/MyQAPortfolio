@@ -19,7 +19,7 @@ I am mainly interested in remote or hybrid work.
 # <p align="center"><a href="https://https://www.linkedin.com/in/agnieszka-smolarczyk-40a505286" target="_blank">👉 Visit my <b>LinkedIn</b> profile</a></p>
 
 
-## My Projects
+## My Projects 
 ### &#10159; June 2023 - GoIT - project "Kapu$ta" ###
 :arrow_forward: Testing part 1. https://docs.google.com/spreadsheets/d/1KB79A73AZvYyYUzhxFtP0xC5gvL9cz76mLwqk1h8ens/edit?usp=sharing 
 
@@ -36,19 +36,15 @@ I am mainly interested in remote or hybrid work.
 
 ✅ testing theory
 
-✅ writing test cases
+✅ writing test cases & bug reporting
 
-✅ bug reporting
+✅ knowledge of tools : SQL, Postman, JIRA, Trello, TestRail,
 
-✅ Databases: SQL,  
-
-✅ Testing: Postman,
+✅ Python knowledge
 
 ✅ Version Control Systems: Github,
 
-✅ Other tools: JIRA, Trello, TestRail
-
-✅ Languages: communicative English
+✅ English at level B1,
 
 ✅ ISTQB: Foundation Level - in progress
 
@@ -58,7 +54,7 @@ I am mainly interested in remote or hybrid work.
 :arrow_forward: Positive attitude, willingness to learn, 
 
 ## Courses
-### &#10159; March 2023 - June 2023 / GoIT 
+### &#10159; March 2023 - June 2023 / QA Engineer / GoIT 
 - testing basics
 - test management
 - tools
@@ -66,7 +62,7 @@ I am mainly interested in remote or hybrid work.
 - API testing, SQL, DML,CI/CD, Git, Jira, TestRail, Postman 
 - mobile testing
 
-### &#10159; February 2023 / 4-day Marathon Quality Assurance GoIT 
+### &#10159; February 2023 / 4-day Marathon Quality Assurance / GoIT 
 - testing theory
 - writing test cases
 - bug reporting
@@ -74,33 +70,32 @@ I am mainly interested in remote or hybrid work.
 - participation in a webinar on the profession of a software tester
 
 ## Tech events / webinars
-### 4_testers -> WEBINARS
+
+### 4_testers -> SUMMER SERIES OF FREE WORKSHOPS FOR TESTERS
 https://www.4testers.pl/webinar
 
-✅ How web applications are built?
+✅ <i> How web applications are built? </i>
 
-✅ How to use DevTools in manual testing and automation?
+✅ <i> How to use DevTools in manual testing and automation? </i>
 
-✅ How to develop technical skills? 
+✅ <i> How to develop technical skills? </i>
 
 
-### TYDZIEŃ PROGRAMISTY 6-13 września 
+
+### PROGRAMMER WEEK September 
 https://tydzienprogramisty.pl/
 
-✅ What is and what is not testing? Emil Mądry 
+✅ <i> What is and what is not testing? </i>  Emil Mądry
 
 -> Theory : basic testing concepts, role of QA in the team, testing tools, test automation
 
 -> Exercises: testing exercises based on several websites
 
-✅ Getting started with Python for everyone! Weronika Witek 
+✅ <i> Getting started with Python for everyone!  </i> Weronika Witek
 
 -> an intensive dose of Python for beginners
 
 -> a few hours of practice in Python
-
-
-
 
 
 ## Books
