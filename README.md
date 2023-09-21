@@ -55,12 +55,17 @@ I am mainly interested in remote or hybrid work.
 
 ## Courses
 ### &#10159; March 2023 - June 2023 / QA Engineer / GoIT 
+CERTIFICATE PL https://drive.google.com/file/d/1AdziiUNY6RPlLPiHZhLK1AKScVklGhcq/view?usp=sharing
+
+CERTIFICATE EN https://drive.google.com/file/d/1ZXc-shjzOpezmm7vF0j_ML5PIlDLIE2S/view?usp=sharing
+
 - testing basics
 - test management
 - tools
 - modern application architecture
 - API testing, SQL, DML,CI/CD, Git, Jira, TestRail, Postman 
 - mobile testing
+
 
 ### &#10159; February 2023 / 4-day Marathon Quality Assurance / GoIT 
 - testing theory
@@ -105,7 +110,7 @@ https://tydzienprogramisty.pl/
 
 ## Groups on Facebook
 
-* [FlyNerd Coding Gang - dziewczyny i IT | tech | kompetencje cyfrowe] (https://www.facebook.com/groups/1427451931347639). 
+* FlyNerd Coding Gang - dziewczyny i IT https://www.facebook.com/groups/1427451931347639. 
 * [Testowanie oprogramowania - PRACA, Ogłoszenia](https://www.facebook.com/groups/215557562210470/?ref=group_header)
 * [Tester oprogramowania - jak nim zostać?](https://www.facebook.com/groups/531570473876610/?ref=group_header)
 * [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/?ref=group_header)
