@@ -1,25 +1,19 @@
 # Portfolio
 
-## About me
+## ABOUT ME
 I am a beginner tester looking for her professional place on earth, full of enthusiasm and good energy. 
-
 After several years of searching for this place, in the meantime raising children, I found myself at a new starting point and here I am 🎯😉
-
 At work, I value honest cooperation and clear rules, I get involved in the tasks entrusted to me.
-
 I recently completed the Quality Assurance Engineer course, where I gained knowledge about software testing, learned to analyze technical documentation, create test scenarios and prepare reports.
-
 As part of the course, I completed a final project and obtained a certificate.💪
 I am currently preparing for the ISTQB exam. ✍
-
-I want to keep learning and move towards automation.
 I am mainly interested in remote or hybrid work.
 
 
 # <p align="center"><a href="https://https://www.linkedin.com/in/agnieszka-smolarczyk-40a505286" target="_blank">👉 Visit my <b>LinkedIn</b> profile</a></p>
 
 
-## My Projects 
+## MY PROJECTS
 ### &#10159; June 2023 - GoIT - project "Kapu$ta" ###
 :arrow_forward: Testing part 1. https://docs.google.com/spreadsheets/d/1KB79A73AZvYyYUzhxFtP0xC5gvL9cz76mLwqk1h8ens/edit?usp=sharing 
 
@@ -31,7 +25,7 @@ I am mainly interested in remote or hybrid work.
 
 
 
-## Tech Stack
+## TECH STACK
 ✅ knowledge of testing procedures and the creation of test documentation 
 
 ✅ testing theory
@@ -42,23 +36,27 @@ I am mainly interested in remote or hybrid work.
 
 ✅ Python knowledge
 
-✅ Version Control Systems: Github,
-
 ✅ English at level B1,
 
 ✅ ISTQB: Foundation Level - in progress
 
 
-## Soft Skills
-:arrow_forward: 
-Committed, 
-calm, 
-communicative,
-honest, 
-insightful
-:arrow_forward: Positive attitude, willingness to learn, 
+## SOFT SKILLS
+✅ committed, 
 
-## Courses
+✅ calm, 
+
+✅ communicative,
+
+✅ honest, 
+
+✅ insightful,
+
+✅ positive attitude, 
+
+✅ willingness to learn, 
+
+## COURSES
 ### &#10159; March 2023 - June 2023 / QA Engineer / GoIT 
 CERTIFICATE PL https://drive.google.com/file/d/1AdziiUNY6RPlLPiHZhLK1AKScVklGhcq/view?usp=sharing
 
@@ -79,7 +77,7 @@ CERTIFICATE EN https://drive.google.com/file/d/1ZXc-shjzOpezmm7vF0j_ML5PIlDLIE2S
 - daily practical homework (getting to know Jira, TestRail) 
 - participation in a webinar on the profession of a software tester
 
-## Tech events / webinars
+## TECH EVENTS / WEBINARS
 
 ### 4_testers -> SUMMER SERIES OF FREE WORKSHOPS FOR TESTERS
 https://www.4testers.pl/webinar
@@ -108,12 +106,12 @@ https://tydzienprogramisty.pl/
 -> a few hours of practice in Python
 
 
-## Books
+## BOOKS
 ✅ "Pasja testowania", K.Jadczyk, Helion, 2021.
 
 ✅ "Zawód tester. Od decyzji do zdobycia doświadczenia", 
 
-## Blogs read
+## BLOGS READ
 
 * [flynerd.pl](https://www.flynerd.pl)
 * [testerzy.pl](http://testerzy.pl)
