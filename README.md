@@ -50,7 +50,12 @@ I am mainly interested in remote or hybrid work.
 
 
 ## Soft Skills
-:arrow_forward: Committed, calm, communicative, honest, insightful, initiative
+:arrow_forward: 
+Committed, 
+calm, 
+communicative,
+honest, 
+insightful
 :arrow_forward: Positive attitude, willingness to learn, 
 
 ## Courses
@@ -79,24 +84,24 @@ CERTIFICATE EN https://drive.google.com/file/d/1ZXc-shjzOpezmm7vF0j_ML5PIlDLIE2S
 ### 4_testers -> SUMMER SERIES OF FREE WORKSHOPS FOR TESTERS
 https://www.4testers.pl/webinar
 
-✅ <i> How web applications are built? </i>
+✅ <i> "Jak są zbudowane web aplikacje?" </i>
 
-✅ <i> How to use DevTools in manual testing and automation? </i>
+✅ <i> "Jak korzystać z DevTools w testach manualnych i przy automatyzacji?" </i>
 
-✅ <i> How to develop technical skills? </i>
+✅ <i> "Jak rozwijać techniczne umiejętności?" </i>
 
 
 
-### PROGRAMMER WEEK 6-13 September 
+### Tydzień Programisty 6-13 September 
 https://tydzienprogramisty.pl/
 
-✅ <i> What is and what is not testing? </i>  Emil Mądry
+✅ <i> "Czym jest a czym nie jest testowanie?" </i>  Emil Mądry
 
 -> Theory : basic testing concepts, role of QA in the team, testing tools, test automation
 
 -> Exercises: testing exercises based on several websites
 
-✅ <i> Getting started with Python for everyone!  </i> Weronika Witek
+✅ <i>"Pierwsze kroki z Pythonem dla każdego!"  </i> Weronika Witek
 
 -> an intensive dose of Python for beginners
 
@@ -104,25 +109,16 @@ https://tydzienprogramisty.pl/
 
 
 ## Books
-✅ "Pasja testowania" K.Jadczyk, Helion, 2021.
+✅ "Pasja testowania", K.Jadczyk, Helion, 2021.
 
+✅ "Zawód tester. Od decyzji do zdobycia doświadczenia", 
 
-
-## Groups on Facebook
-
-* FlyNerd Coding Gang - dziewczyny i IT https://www.facebook.com/groups/1427451931347639. 
-* [Testowanie oprogramowania - PRACA, Ogłoszenia](https://www.facebook.com/groups/215557562210470/?ref=group_header)
-* [Tester oprogramowania - jak nim zostać?](https://www.facebook.com/groups/531570473876610/?ref=group_header)
-* [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/?ref=group_header)
-* [Grupa ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242/)
-* [Wydarzenia Sii Polska](https://www.facebook.com/groups/SiiPoland.events/?ref=group_header)
-
-* ## Blogs read
+## Blogs read
 
 * [flynerd.pl](https://www.flynerd.pl)
 * [testerzy.pl](http://testerzy.pl)
-* [testerka.pl](http://testerka.pl)
-* [toniebug.pl](https://www.toniebug.pl)
+* [devenv.pl](https://devenv.pl/)
+* [testuj.pl](https://testuj.pl)
 * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl)
 
 
