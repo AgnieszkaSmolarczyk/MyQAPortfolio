@@ -15,11 +15,11 @@ I am mainly interested in remote or hybrid work.
 
 ## MY PROJECTS
 ### &#10159; June 2023 - GoIT - project "Cabbage" ###
-:arrow_forward: Testing part 1. https://docs.google.com/spreadsheets/d/1KB79A73AZvYyYUzhxFtP0xC5gvL9cz76mLwqk1h8ens/edit?usp=sharing 
+:arrow_forward: Testing part 1. (https://bit.ly/Cabbage_TestCases)
 
-:arrow_forward: Bug raport https://docs.google.com/spreadsheets/d/1gCiX4UD3GXaKEq2en5ni7VDpGq04PzrUeE4c1d5BTaM/edit?usp=sharing
+:arrow_forward: Bug raport (https://bit.ly/Cabbage_BugReport1)
 
-:arrow_forward: Testing part 2. https://docs.google.com/spreadsheets/d/1KUunYFfUJkvs1nLXOZ5fyCDgRZu2K7jt_uNdM518McQ/edit?usp=sharing
+:arrow_forward: Testing part 2. (https://bit.ly/Cabbage_TestCases_part2)
 
 :arrow_forward: Bug report https://docs.google.com/spreadsheets/d/1F9qtfnEjqG_pDAAjo06436pqqKPrS4-WuX3QsJGQquw/edit?usp=sharing 
 
