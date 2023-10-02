@@ -112,7 +112,7 @@ https://tydzienprogramisty.pl/
 ## BOOKS
 ✅ "Pasja testowania", K.Jadczyk, Helion, 2021.
 
-✅ "Zawód tester. Od decyzji do zdobycia doświadczenia", 
+✅ "Zawód tester. Od decyzji do zdobycia doświadczenia", R.Smilgin, PWN, 2018.
 
 ## BLOGS READ
 
