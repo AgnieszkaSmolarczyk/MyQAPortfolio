@@ -10,11 +10,11 @@ I am currently preparing for the ISTQB exam. ✍
 I am mainly interested in remote or hybrid work.
 
 
-# <p align="center"><a href="https://https://www.linkedin.com/in/agnieszka-smolarczyk-40a505286" target="_blank">👉 Visit my <b>LinkedIn</b> profile</a></p>
+# <p align="center"><a href="https://www.linkedin.com/in/agnieszka-smolarczyk-40a505286" target="_blank">👉 Visit my <b>LinkedIn</b> profile</a></p>
 
 
 ## MY PROJECTS
-### &#10159; June 2023 - GoIT - project "Kapu$ta" ###
+### &#10159; June 2023 - GoIT - project "Cabbage" ###
 :arrow_forward: Testing part 1. https://docs.google.com/spreadsheets/d/1KB79A73AZvYyYUzhxFtP0xC5gvL9cz76mLwqk1h8ens/edit?usp=sharing 
 
 :arrow_forward: Bug raport https://docs.google.com/spreadsheets/d/1gCiX4UD3GXaKEq2en5ni7VDpGq04PzrUeE4c1d5BTaM/edit?usp=sharing
@@ -26,35 +26,38 @@ I am mainly interested in remote or hybrid work.
 
 
 ## TECH STACK
+
 ✅ knowledge of testing procedures and the creation of test documentation 
 
 ✅ testing theory
 
 ✅ writing test cases & bug reporting
 
-✅ knowledge of tools : SQL, Postman, JIRA, Trello, TestRail,
+✅ knowledge of tools : SQL, Postman, JIRA, Trello, TestRail
 
 ✅ Python knowledge
 
-✅ English at level B1,
+✅ English at level B1
 
 ✅ ISTQB: Foundation Level - in progress
 
 
 ## SOFT SKILLS
-✅ committed, 
 
-✅ calm, 
+✅ committed 
 
-✅ communicative,
+✅ calm
 
-✅ honest, 
+✅ communicative
 
-✅ insightful,
+✅ honest
 
-✅ positive attitude, 
+✅ insightful
 
-✅ willingness to learn, 
+✅ positive attitude 
+
+✅ willingness to learn
+
 
 ## COURSES
 ### &#10159; March 2023 - June 2023 / QA Engineer / GoIT 
@@ -113,6 +116,7 @@ https://tydzienprogramisty.pl/
 
 ## BLOGS READ
 
+* [qualityisland.pl](https://qualityisland.pl)
 * [flynerd.pl](https://www.flynerd.pl)
 * [testerzy.pl](http://testerzy.pl)
 * [devenv.pl](https://devenv.pl/)
